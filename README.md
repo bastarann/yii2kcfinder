@@ -19,13 +19,13 @@ Since kcfinder package do not have stable release on packagist, you should use t
 After, either run
 
 ```
-php composer.phar require "bastarann/yii2-kcfinder" "*"
+php composer.phar require "bastarann/yii2kcfinder" "*"
 ```
 
 or add
 
 ```json
-"bastarann/yii2-kcfinder" : "*"
+"bastarann/yii2kcfinder" : "*"
 ```
 
 to the require section of your application's `composer.json` file.
